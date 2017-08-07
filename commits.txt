@@ -1,0 +1,16 @@
+commit 110d723513c047fc291884124966be30337725b6
+
+Author: Angel <dropdead66672@gmail.com>
+Date:   Mon Aug 7 00:15:54 2017 -0400
+
+
+Modifique el index agregando un nav
+
+
+commit e83e4339a0b91d4a1dae85575c98ccaa4f494d99
+
+Author: Angel <dropdead66672@gmail.com>
+Date:   Mon Aug 7 00:10:10 2017 -0400
+
+
+iniciamos
